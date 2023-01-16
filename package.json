@@ -1,0 +1,24 @@
+{
+  "name": "todoappexprees",
+  "version": "1.0.0",
+  "description": "TODO List express and Mongo  DB",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chetan-Saini1224/TODO_express_mongo.git"
+  },
+  "author": "chetan saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chetan-Saini1224/TODO_express_mongo/issues"
+  },
+  "homepage": "https://github.com/Chetan-Saini1224/TODO_express_mongo#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
